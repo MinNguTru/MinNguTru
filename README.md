@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MinNguTru
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React and Python
+- 👋 Hi, I’m Minh Nguyen @MinNguTru
+- 🌱 I’m currently Unity 
 - 📫 How to reach me MinNguTru@gmail.com
 
 <!---
