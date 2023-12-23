@@ -1,5 +1,5 @@
 Hello! I'm Minh Nguyen. I am currently a CSSE student at UWB.
-Contact: minhnguyenr34@gmail.com
+Contact: minngutru@gmail.com
 
 <!---
 MinNguTru/MinNguTru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
